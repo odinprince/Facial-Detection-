@@ -1,1 +1,2 @@
-# Facial-Detection-
+# Facial-Detection
+This repository  evaluates the confidence levels revealed by each model in the detection of individuals with different skin tones which highlights the differences. An analysis of the facial detection outputs reveals a trend: the system shows lower confidence levels for individuals with darker skin tones, often leading to instances of non-detection among black individuals. The LBPCASCADE model emerges as a potential remedy which showcases enhanced accuracy and more consistent confidence scores across diverse skin tones.
